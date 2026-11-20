@@ -1,0 +1,102 @@
+
+{
+  "Jeans": [
+    {
+      "id": 1,
+      "name": "Slim Fit Jeans",
+      "brand": "Levis",
+      "price": 799,
+      "description": "Comfortable slim fit denim jeans."
+    },
+    {
+      "id": 2,
+      "name": "Regular Fit Jeans",
+      "brand": "Roadster",
+      "price": 999,
+      "description": "Classic regular fit casual jeans."
+    },
+    {
+      "id": 3,
+      "name": "Stretchable Jeans",
+      "brand": "Highlander",
+      "price": 1299,
+      "description": "Flexible and comfortable stretchable jeans."
+    },
+    {
+      "id": 4,
+      "name": "Classic Blue Jeans",
+      "brand": "Wrangler",
+      "price": 1799,
+      "description": "Premium classic blue denim jeans."
+    }
+  ],
+  "Smartphone": [
+    {
+      "id": 1,
+      "name": "Redmi A3",
+      "brand": "Xiaomi",
+      "price": 6999,
+      "description": "Budget-friendly smartphone for everyday use."
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy M15",
+      "brand": "Samsung",
+      "price": 12999,
+      "description": "Smartphone with a large display and long battery life."
+    },
+    {
+      "id": 3,
+      "name": "Moto G85",
+      "brand": "Motorola",
+      "price": 17999,
+      "description": "Stylish smartphone with a smooth display."
+    }
+  ],
+  "Laptop": [
+    {
+      "id": 1,
+      "name": "HP Chromebook",
+      "brand": "HP",
+      "price": 19999,
+      "description": "Laptop for everyday browsing and basic tasks."
+    },
+    {
+      "id": 2,
+      "name": "Lenovo IdeaPad Slim",
+      "brand": "Lenovo",
+      "price": 39999,
+      "description": "Laptop suitable for productivity and study."
+    },
+    {
+      "id": 3,
+      "name": "ASUS Vivobook",
+      "brand": "ASUS",
+      "price": 54999,
+      "description": "Laptop for multitasking and everyday work."
+    }
+  ],
+  "T-Shirt": [
+    {
+      "id": 1,
+      "name": "Basic Cotton T-Shirt",
+      "brand": "Roadster",
+      "price": 499,
+      "description": "Comfortable cotton T-shirt for everyday wear."
+    },
+    {
+      "id": 2,
+      "name": "Printed T-Shirt",
+      "brand": "Puma",
+      "price": 799,
+      "description": "Casual printed T-shirt."
+    },
+    {
+      "id": 3,
+      "name": "Premium Polo T-Shirt",
+      "brand": "U.S. Polo Assn.",
+      "price": 1499,
+      "description": "Premium polo T-shirt with a classic design."
+    }
+  ]
+}
