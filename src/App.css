@@ -45,14 +45,18 @@
 }
 
 .new-chat-button {
-  flex: 1;
+  flex: 0 0 auto;
+  margin-left: auto;
   border: none;
   background: transparent;
+  color: #111;
+  text-decoration: none;
   font-size: 23px;
-  text-align: left;
+  text-align: right;
   cursor: pointer;
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 8px;
 }
 
@@ -145,6 +149,11 @@
 .dark-mode .theme-toggle {
   color: #fff;
 }
+
+.dark-mode .new-chat-button {
+  color: #fff;
+}
+
 /* Welcome Section */
 
 .welcome-section {

@@ -1,4 +1,3 @@
-
 import { Link } from 'react-router-dom'
 import { Plus } from 'lucide-react'
 import messagelogo from '../assets/newchat.png'
@@ -13,14 +12,14 @@ function Sidebar({ onNewChat }) {
             <img src= {messagelogo}/>
         </div>
 
-        <button
-          type="button"
+        <Link
+          to="/"
           className="new-chat-button"
           onClick={onNewChat}
         >
-          <Plus size={22} aria-hidden="true" />
           <span>Want new suggestion?</span>
-        </button>
+          <Plus size={22} aria-hidden="true" />
+        </Link>
 
       </div>
 
