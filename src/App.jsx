@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import './app.css'
+import "./App.css";
 import Chat from './pages/Chat'
 import History from './pages/History'
 
